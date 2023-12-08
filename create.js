@@ -1,2 +1,1 @@
 "strictQuery"
-console.log("hello");
