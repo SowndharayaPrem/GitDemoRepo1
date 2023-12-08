@@ -1,1 +1,2 @@
+"strictQuery"
 console.log("hello");
